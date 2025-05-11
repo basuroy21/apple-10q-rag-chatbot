@@ -1,6 +1,6 @@
-# 📊 TaxBot: Apple 10-Q Analyst Chatbot
+# 📊 Streamlit Chatbot for Financial Report Analysis (Apple 10-Q RAG)
 
-TaxBot is an interactive, LLM-powered chatbot built with Streamlit and LangChain. It allows users to ask questions over Apple's 10-Q earnings reports and get precise, grounded answers using vector search (FAISS) and OpenAI's GPT-3.5.
+This is an interactive, LLM-powered chatbot built with Streamlit and LangChain. It allows users to ask questions over Apple's 10-Q earnings reports and get precise, grounded answers using vector search (FAISS) and OpenAI's GPT-3.5.
 
 ---
 
